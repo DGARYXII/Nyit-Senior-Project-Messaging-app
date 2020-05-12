@@ -1,7 +1,12 @@
 
-body{background-color: yellow; color: black; }
+body{
+    background-color: red;
+    color: black; 
+}
 
-h1{ center
- margin:2px ;
-     background-color: blue ;color: white;
-     border:1px solid white;}
+h1{
+    margin:2px ;
+    background-color: blue ;
+    color: white;
+    border:1px solid white;
+}
